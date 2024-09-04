@@ -1,0 +1,1 @@
+Este é um projeto da disciplina do Wilton onde criamos uma landing page e para rodar o projeto precisamos da extensão live server.
